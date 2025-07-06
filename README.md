@@ -4,6 +4,7 @@ Proyecto de análisis de datos de vuelos en Argentina utilizando **SQL Server** 
 
 Incluye métricas clave sobre pasajeros, aerolíneas, aeropuertos, tipo de vuelo (doméstico/internacional) y movimientos (despegues y aterrizajes).
 
+🖼️ [Galería de imágenes](./assets/)  
 🔗 [Descargar archivo `.pbix`](./analisis_vuelos_2025.pbix)  
 📊 [Fuente de datos](https://www.datos.gob.ar/dataset/transporte-aterrizajes-despegues-procesados-por-administracion-nacional-aviacion-civil-anac/archivo/transporte_0706775f-bed9-46e7-aac5-726d7e72e429)
 
